@@ -1,3 +1,3 @@
 Link for Image Attribute that should be passed into API should follow this format -
 
-https://raw.githubusercontent.com/HCPTravels/API-Images/main/Images/Delhi and NCR/DEL001.jpg
+https://raw.githubusercontent.com/HCPTravels/API-Images/main/Images/Delhi and NCR/DEL001/DEL001.jpg
